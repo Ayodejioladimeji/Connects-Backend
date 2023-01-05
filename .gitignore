@@ -2,25 +2,6 @@ node_modules/
 
 .env
 
-# The client side
-SocketClient.js
 
-utils/
-
-redux/
-
-pages/
-
-audio/
-
-
-# The server side
-controllers/
-
-middlewares/
-
-server.js
-
-socketServer.js
 
 
