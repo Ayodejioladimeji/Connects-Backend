@@ -1,6 +1,6 @@
-# Connects Chat App FullStack
+# Connects Chat App Backend
 
-Connect is a social messenger web app built with React, Redux, Node, Express
+Connect is a social messenger web app built with Node, Express, Socket.io
 
 ## Author
 
